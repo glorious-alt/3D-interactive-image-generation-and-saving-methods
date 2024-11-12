@@ -4,5 +4,5 @@
 1.1 Generating HTML and ASY Formats with R.  
 1.2 Generating ASY and PRC Formats with Asymptote.
 ### 2.Inserting 3D Images into PDF
-2.1 Inserting 3D Images Using Adobe Acrobat Software.  
+2.1 Inserting 3D Images using Adobe Acrobat Software.  
 2.2 Inserting 3D Images in LaTeX.
